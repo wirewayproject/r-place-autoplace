@@ -2,7 +2,8 @@
 
 
 
-# How to setup a bot (only macOS and Linux)
+# How to setup a bot (only macOS and Linux)
+
 (windows soon)
 
 1. Go to https://www.reddit.com/r/place/?screenmode=fullscreen
